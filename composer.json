@@ -1,0 +1,24 @@
+{
+    "name": "dsb/php-db-oracle",
+    "type": "library",
+    "description": "Oracle Database Connection Class",
+    "keywords": ["db","database","oracle"],
+    "homepage": "https://github.com/salehawal/php.db.oracle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Saleh Abdulaziz",
+            "email": "saleh.awal@gmail.com",
+            "homepage": "http://saleh360.blogspot.com/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Monolog": "src"
+        }
+    }
+}
