@@ -1,7 +1,7 @@
 {
     "name": "dsb/db-oracle",
     "type": "library",
-    "description": "Simple PHP Class for Oracle ",
+    "description": "Simple PHP Class for Oracle Database",
     "keywords": ["db","database","oracle"],
     "homepage": "https://github.com/salehawal/php.db.oracle",
     "license": "MIT",
