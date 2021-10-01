@@ -1,15 +1,15 @@
 {
-    "name": "dsb/db-oracle",
+    "name": "darelm/pkg_php-db-oracle",
     "type": "library",
     "description": "Simple PHP Class for Oracle Database",
-    "keywords": ["db","database","oracle"],
+    "keywords": ["db","database","oracle","php oracle"],
     "homepage": "https://github.com/salehawal/php.db.oracle",
     "license": "MIT",
     "authors": [
         {
             "name": "Saleh Abdulaziz",
             "email": "saleh.awal@gmail.com",
-            "homepage": "http://saleh360.blogspot.com",
+            "homepage": "https://salehawal.github.io",
             "role": "Developer"
         }
     ],
